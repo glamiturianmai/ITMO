@@ -1,0 +1,15 @@
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\bin\Debug\net8.0\oop-lab-2.exe
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\bin\Debug\net8.0\oop-lab-2.deps.json
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\bin\Debug\net8.0\oop-lab-2.runtimeconfig.json
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\bin\Debug\net8.0\oop-lab-2.dll
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\bin\Debug\net8.0\oop-lab-2.pdb
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\obj\Debug\net8.0\oop-lab-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\obj\Debug\net8.0\oop-lab-2.AssemblyInfoInputs.cache
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\obj\Debug\net8.0\oop-lab-2.AssemblyInfo.cs
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\obj\Debug\net8.0\oop-lab-2.csproj.CoreCompileInputs.cache
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\obj\Debug\net8.0\oop-lab-2.sourcelink.json
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\obj\Debug\net8.0\oop-lab-2.dll
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\obj\Debug\net8.0\refint\oop-lab-2.dll
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\obj\Debug\net8.0\oop-lab-2.pdb
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\obj\Debug\net8.0\oop-lab-2.genruntimeconfig.cache
+C:\Users\dns\Desktop\итмо\4 семестр\ООП\OOP-labs\oop-lab-2\obj\Debug\net8.0\ref\oop-lab-2.dll
